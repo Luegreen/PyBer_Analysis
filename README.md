@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Using MatPlotlib, Pandas and Python
+MatPlotlib, Pandas and Python3
 ## Disparities in the ride-sharing data among the city types.
 Pyber, an on-line ride sharing company, would like to improve access to ride sharing services and determine affordability for underserved neighborhoods. 
 
