@@ -19,3 +19,8 @@ I suggest
 1) doing a customer research study to determine if the lack of ride sharing in rural neighborhoods is because 1)there aren't enough drivers slowing down the process of a successful and fast service; or because the need is less, and therefor the drivers are available but are getting fewer rides because there is less demand. 
 2) I would also do customer research in the suburban areas. This is a more competitive field for the drivers and it would also be interesting in these communities to find out if the limiting factor is lack of drivers, or lack of demand. In the suburban areas I would be tempted to increase the fleet to see if that improved service will boost the demand. 
 3) Finally, I would maintain the urban service at the level to which it is already being provided. 
+
+
+## Code sample:
+<img width="1015" alt="Screen Shot 2021-08-23 at 2 14 59 PM" src="https://user-images.githubusercontent.com/14239715/130496505-d14ef3aa-2362-457c-8b08-1f739ad8c75e.png">
+
